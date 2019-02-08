@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
 SITEURL = ''
+THEME = 'templates/mytheme'
 
 PATH = 'content'
 
